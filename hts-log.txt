@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Sep 2023 12:48:50 at https://expert-themes.com/html/shangrila/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://expert-themes.com/html/shangrila/index.html -O1 "C:\My Web Sites\AkashBhai" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:50:26	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/how-it-works.html (from https://expert-themes.com/html/shangrila/index.html)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/menu-grid-list.html (from https://expert-themes.com/html/shangrila/index-3.html)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/reservation-standard.html (from https://expert-themes.com/html/shangrila/index-7.html)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/themepunch.revolution.min.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.revolution.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/jquery.themepunch.revolution.min.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.revolution.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/jquery.themepunch.revolution.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.revolution.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/images/transparent.png (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.revolution.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/assets/transparent.png (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.revolution.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/TweenLite.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.tools.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/TweenLite.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.tools.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/Version/ (from https://expert-themes.com/html/shangrila/plugins/revolution/js/jquery.themepunch.tools.min.js)
+12:50:58	Warning: 	Retry after error 504 (Gateway Time-out) at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/extensions/revolution.extension.video.min.js)
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/popper.js (from https://expert-themes.com/html/shangrila/js/bootstrap.min.js)
+12:50:58	Warning: 	Moved Permanently for https://expert-themes.com/html/shangrila/specified parentLocale is not defined yet. See http://momentjs.com/guides/
+12:50:58	Warning: 	File has moved from https://expert-themes.com/html/shangrila/specified parentLocale is not defined yet. See http://momentjs.com/guides/ to https://expert-themes.com/html/shangrila/specified%20parentLocale%20is%20not%20defined%20yet.%20See%20http:/momentjs.com/guides/
+12:50:58	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/canvas.c (from https://expert-themes.com/html/shangrila/js/widget.js)
+12:50:59	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/css/owl.video.play.png (from https://expert-themes.com/html/shangrila/css/owl.css)
+12:50:59	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/css/images/ui-icons_444444_256x240.png (from https://expert-themes.com/html/shangrila/css/jquery-ui.css)
+12:50:59	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/css/images/ui-icons_777620_256x240.png (from https://expert-themes.com/html/shangrila/css/jquery-ui.css)
+12:50:59	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/css/images/ui-icons_cc0000_256x240.png (from https://expert-themes.com/html/shangrila/css/jquery-ui.css)
+12:50:59	Error: 	"Not Found" (404) at link https://expert-themes.com/html/shangrila/css/images/ui-icons_777777_256x240.png (from https://expert-themes.com/html/shangrila/css/jquery-ui.css)
+12:50:59	Warning: 	Retry after error 504 () at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/extensions/revolution.extension.video.min.js)
+12:50:59	Error: 	"" (504) after 2 retries at link https://secure-a.vimeocdn.com/js/froogaloop2.min.js (from https://expert-themes.com/html/shangrila/plugins/revolution/js/extensions/revolution.extension.video.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 287 links scanned, 264 files written (43605607 bytes overall) [40207711 bytes received at 311687 bytes/sec], 14337769 bytes transferred using HTTP compression in 123 files, ratio 69%, 14.2 requests per connection
+(19 errors, 4 warnings, 0 messages)
